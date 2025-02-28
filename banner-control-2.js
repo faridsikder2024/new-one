@@ -8,7 +8,7 @@ var learnMoreText = "Learn more about the provider";
 var topSectionText = ["Toestemming", "Details", "Over"];
 
 var firstSectionText = "We gebruiken cookies om inhoud en advertenties te personaliseren, functies voor sociale media aan te bieden en ons verkeer te analyseren. We delen ook informatie over uw gebruik van onze website met onze sociale media-, advertentie- en analysepartners, die deze kunnen combineren met andere informatie die u aan hen hebt verstrekt of die zij hebben verzameld door uw gebruik van hun diensten.";
-var thirdSectionText = "Cookies zijn kleine tekstbestanden die door websites worden gebruikt om de gebruikerservaring te verbeteren. De wet bepaalt dat wij cookies op uw apparaat kunnen plaatsen als deze strikt noodzakelijk zijn voor de werking van deze website. Voor alle andere soorten cookies hebben wij uw toestemming nodig. Dit betekent dat cookies die als noodzakelijk zijn geclassificeerd, worden beheerd overeenkomstig artikel 6, lid 1, onder f) van de AVG. Alle andere cookies, zoals die in de categorieën Voorkeuren en Marketing, worden beheerd overeenkomstig artikel 6, lid 1, onder a) van de AVG. Deze website maakt gebruik van verschillende soorten cookies. Sommige cookies worden geplaatst door diensten van derden die op onze pagina's verschijnen.";
+var thirdSectionText = "Cookies zijn kleine tekstbestanden die door websites worden gebruikt om de gebruikerservaring te verbeteren. De wet bepaalt dat wij cookies op uw apparaat kunnen plaatsen als deze strikt noodzakelijk zijn voor de werking van deze website. Voor alle andere soorten cookies hebben wij uw toestemming nodig. Dit betekent dat cookies die als noodzakelijk zijn geclassificeerd, worden beheerd overeenkomstig artikel 6, lid 1, onder f) van de AVG. Alle andere cookies, zoals die in de categorieÃ«n Voorkeuren en Marketing, worden beheerd overeenkomstig artikel 6, lid 1, onder a) van de AVG. Deze website maakt gebruik van verschillende soorten cookies. Sommige cookies worden geplaatst door diensten van derden die op onze pagina's verschijnen.";
 
 var bannerButtonsTexts = ["Accepteren", "Afwijzen", "Pas aan", "Redden"];
 
@@ -243,7 +243,7 @@ window.addEventListener("load", function() {
 					"category": "Marketing",
 					"data_key": "SSID",
 					"domain": "https://mark-ryden.cz",
-					"description": "se specifickými funkcemi",
+					"description": "se specifickÃ½mi funkcemi",
 					"retention_period": "2 years",
 					"data_controller": "Google",
 					"privary_rights_portals": "https://policies.google.com/privacy",
